@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DolarHoy</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Dolar Hoy</string>
+    <string name="timeline_fragment_label">Dolar Historico</string>
+
+    <string name="home_title">DOLAR HOY</string>
+    <string name="update_btn">Guardar datos</string>
+    <string name="timeline_btn">Linea de tiempo</string>
+    <string name="dialog_title">Seleccionar datos</string>
+
+    <string-array name="options_picker">
+        <item>Mi Historico</item>
+        <item>Dolar Oficial</item>
+        <item>Euro</item>
+        <item>Real</item>
+        <item>Dolar Blue</item>
+        <item>Peso Uruguayo</item>
+        <item>Guarani</item>
+        <item>Peso Chileno</item>
+        <item>Libra UK</item>
+    </string-array>
+
+    <string-array name="options_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>

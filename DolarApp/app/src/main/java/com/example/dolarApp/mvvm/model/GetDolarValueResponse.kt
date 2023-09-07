@@ -1,0 +1,8 @@
+package com.example.dolarApp.mvvm.model
+
+import com.google.gson.annotations.SerializedName
+
+data class GetDolarValueResponse (
+    @SerializedName("casa")
+    val value: ValueModel
+)
